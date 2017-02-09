@@ -1,2 +1,3 @@
 # hello-world
-My First Repo
+Today's plan: Destroy the world! 
+.. -the crystal poot8
